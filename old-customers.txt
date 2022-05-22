@@ -1,0 +1,14 @@
+
+Customer ID: 12
+Name: Aryan
+Age: 21
+Mobile Number: 2147483647
+Address: 
+Gender: 
+
+Customer ID: 120
+Name: aryan
+Age: 22
+Mobile Number: 2147483647
+Address: 
+Gender: 
